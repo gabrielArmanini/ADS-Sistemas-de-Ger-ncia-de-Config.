@@ -1,2 +1,2 @@
-# ADS-Sistemas-de-Ger-ncia-de-Config.
+# ADS-Sistemas-de-Gerencia-de-Config.
 Atividade
